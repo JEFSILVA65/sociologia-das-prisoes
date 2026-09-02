@@ -41,4 +41,4 @@ Este repositório é público. **Não versionar os PDFs originais** dos textos e
 
 | Texto | Autor | Fichado em | Pasta |
 |---|---|---|---|
-| _(nenhum ainda — aguardando PDFs)_ | | | |
+| A autoridade que não se assina: deniabilidade prisional e liderança negativa no cárcere paulista | José Erivaldo Ferreira Silva | 2026-09 | [`silva-autoridade-que-nao-se-assina/`](./silva-autoridade-que-nao-se-assina/) |
